@@ -1,0 +1,11 @@
+--installing air on platform
+go get -u github.com/cosmtrek/air
+cd to project path
+create toml file using air command
+air -c .air.toml
+
+
+
+-- run using air
+cd go/testing/ 
+air
